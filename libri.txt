@@ -1,0 +1,36 @@
+Titolo             : Harry Potter e la Pietra Filosofale
+Autore             : J.K.Rowling
+Autore             : 
+Autore             : 
+Autore             : 
+Genere             : Fantasy
+Genere             : Avventura
+Editore            : Salani
+N° pagine          : 304
+N° capitoli        : 17
+Anno pubblicazione : 1998
+ISBN               : 123456789
+Titolo             : Harry Potter e la Camera dei Segreti
+Autore             : J. K. Rowling
+Autore             : 
+Autore             : 
+Autore             : 
+Genere             : Fantasy
+Genere             : Avventura
+Editore            : Salani
+N° pagine          : 317
+N° capitoli        : 18
+Anno pubblicazione : 1999
+ISBN               : 123456789
+Titolo             : libro di elia
+Autore             : Elia Maggi
+Autore             : 
+Autore             : 
+Autore             : 
+Genere             : Avventura
+Genere             : Storico
+Editore            : elia edizioni
+N° pagine          : 300
+N° capitoli        : 18
+Anno pubblicazione : 1995
+ISBN               : 123456789
